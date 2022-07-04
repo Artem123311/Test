@@ -1,3 +1,13 @@
+# **Начало работы с Git**
+
+Для начала работы с Git необходимо настроить его. 
+
+В этом помогут следующие команды:
+
+1. git config --global user.name "My Name"
+
+2. git config --global user.email myEmail@example.com 
+
 # **Основные команды**
 
 git init – инициализация локального репозитория
