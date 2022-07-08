@@ -102,6 +102,14 @@ git config --list - Для того, чтобы посмотреть все на
 2. Второй пункт
 3. Третий пункт
 
+## Клонирование репозитория
+
+Для клонирования репозитория необходимо использовать команду
+
+```
+git clone <url to repository>
+```
 
 
 ![panda](https://www.belnovosti.by/sites/default/files/blogs/02-04-2018/21.jpg)
+
