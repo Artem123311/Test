@@ -110,6 +110,13 @@ git config --list - Для того, чтобы посмотреть все на
 git clone <url to repository>
 ```
 
+## Сброс изменений 
+
+Для сброса изменений используйте команду 
+
+```
+git reset <commit hash>
+```
 
 ![panda](https://www.belnovosti.by/sites/default/files/blogs/02-04-2018/21.jpg)
 
